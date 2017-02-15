@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\jefri\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\laundry.png",
+        "source": "E:\\jefri\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\laundry.png"
+    },
+    {
+        "merged": "E:\\jefri\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\pemesanan.png",
+        "source": "E:\\jefri\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\pemesanan.png"
+    },
+    {
+        "merged": "E:\\jefri\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\rastaurant.png",
+        "source": "E:\\jefri\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\rastaurant.png"
+    },
+    {
+        "merged": "E:\\jefri\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\jefri\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\jefri\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\kost.png",
+        "source": "E:\\jefri\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\kost.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Thu Feb 16 03:22:49 ICT 2017
+base.0=E\:\\jefri\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7cb219ad91716b262c4d966a59883b79d2bd7aee
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\jefri\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_43309d4b931d208c67ff541aefacc630441e3a7b\\classes.dex
+base.1=E\:\\jefri\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_43309d4b931d208c67ff541aefacc630441e3a7b
+file.0=E\:\\jefri\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7cb219ad91716b262c4d966a59883b79d2bd7aee\\classes.dex
